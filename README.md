@@ -1,6 +1,10 @@
 # 🚀 100 Days of DevOps & Cloud Engineering Challenge
 
-Welcome to my intensive 100-day hands-on learning journey! This repository serves as a live documentation of my technical progress as I master Linux System Administration, AWS Cloud Infrastructure, Automation Pipelines, and Enterprise DevOps methodologies.
+Welcome to my intensive 100-day hands-on learning journey!
+This repository serves as a live documentation of my
+technical progress as I master Linux System Administration,
+AWS Cloud Infrastructure, Automation Pipelines, and
+Enterprise DevOps methodologies.
 
 ---
 
@@ -22,7 +26,8 @@ Welcome to my intensive 100-day hands-on learning journey! This repository serve
 | 04 | Core Linux CLI Utilities | Mastered 25 basic commands (`df -h`, `ps aux`, `grep`, `wc -l`, etc.) | [View Day 4 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day04-Linux-Basic-Commands.md) | ✅ |
 | 05 | Linux File Operational Commands Part 1 | Practiced 20 file commands — `cat`, `diff`, `cp`, `ln`, `locate`, `head`, `less`, `cksum` & more | [View Day 5 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day05-File-Operations.md) | ✅ |
 | 06 | Linux File Operational Commands Part 2 | Completed remaining 20 file commands — `mv`, `tail -f`, `tar`, `tee`, `sort`, `uniq`, `wc`, `shred` & more | [View Day 6 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day06-File-Operations-Part2.md) | ✅ |
-| 07 | Directory Operations Commands | Next GFG Module | Pending | ⏳ |
+| 07 | Directory Operations Commands | Practiced 12 commands — `find`, `tree`, `du`, `lsblk`, `mount`, `mkdir`, `rmdir` & more | [View Day 7 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day07-Directory-Operations.md) | ✅ |
+| 08 | Next Linux Module | Upcoming | Pending | ⏳ |
 
 ---
 
