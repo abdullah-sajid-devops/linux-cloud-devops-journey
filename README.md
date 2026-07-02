@@ -28,7 +28,8 @@ Enterprise DevOps methodologies.
 | 06 | Linux File Operational Commands Part 2 | Completed remaining 20 file commands — `mv`, `tail -f`, `tar`, `tee`, `sort`, `uniq`, `wc`, `shred` & more | [View Day 6 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day06-File-Operations-Part2.md) | ✅ |
 | 07 | Directory Operations Commands | Practiced 12 commands — `find`, `tree`, `du`, `lsblk`, `mount`, `mkdir`, `rmdir` & more | [View Day 7 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day07-Directory-Operations.md) | ✅ |
 | 08 | File Permissions & Ownership | Mastered `chmod`, `chattr`, `chown`, `chgrp` — numeric permissions, immutable files & ownership management | [View Day 8 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day08-File-Permissions-Ownership.md) | ✅ |
-| 09 | Next Linux Module | Upcoming | Pending | ⏳ |
+| 09 | User Management Commands | Practiced 15 commands — `useradd`, `userdel`, `usermod`, `passwd`, `chage`, `who`, `whoami` & more | [View Day 9 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day09-User-Management.md) | ✅ |
+| 10 | Next Linux Module | Upcoming | Pending | ⏳ |
 
 ---
 
