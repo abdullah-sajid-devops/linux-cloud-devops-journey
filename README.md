@@ -31,7 +31,8 @@ Enterprise DevOps methodologies.
 | 09 | User Management Commands | Practiced 15 commands — `useradd`, `userdel`, `usermod`, `passwd`, `chage`, `who`, `whoami` & more | [View Day 9 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day09-User-Management.md) | ✅ |
 | 10 | Group Management Commands | Mastered 7 commands — `groupadd`, `groupdel`, `groupmod`, `gpasswd`, `groups`, `grpck`, `grpconv` | [View Day 10 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day10-Group-Management.md) | ✅ |
 | 11 | Process Management Commands | Practiced 18 commands — `ps`, `top`, `htop`, `kill`, `strace`, `vmstat`, `uptime` & more | [View Day 11 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day11-Process-Management.md) | ✅ |
-| 12 | Next Linux Module | Upcoming | Pending | ⏳ |
+| 12 | Terminal & Session Management | Mastered 8 commands — `screen`, `tty`, `stty`, `reset`, `chvt`, `agetty` & more | [View Day 12 Lab](https://github.com/abdullah-sajid-devops/linux-cloud-devops-journey/blob/main/Day12-Terminal-Session-Management.md) | ✅ |
+| 13 | Next Linux Module | Upcoming | Pending | ⏳ |
 
 ---
 
