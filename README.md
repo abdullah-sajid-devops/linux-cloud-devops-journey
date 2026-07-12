@@ -39,6 +39,14 @@ my progress as I build a strong foundation in **Linux System Administration**
 | 15 | Hardware & System Information | Mastered 15 commands — dmidecode, dmesg, lshw, uname, lsdev, dstat, lstop & more | [View Day 15 Lab](./Day15-Hardware-System-Info.md) | ✅ |
 | 16 | Linux Networking Commands | Mastered ip/ifconfig, hostnamectl, host/nslookup, arp, and DNS/latency/security tools | [View Day 16 Lab](./Day16-Networking-Command.md) | ✅ |
 | 17 | Cisco NDG — Linux Unhatched Certification | Completed official Cisco Networking Academy certification, verifying Linux fundamentals | [View Day 17 Lab](./Day17-Cisco-Certification.md) | ✅ |
+| 18 | NDG Linux Essentials — Module 1 | Kernel vs GNU tools, Open Source philosophy, Linux distro lineages (Debian/Red Hat/Slackware) | [View Day 18 Lab](./Day18-NDG-Linux-Essentials-Module1.md) | ✅ |
+
+---
+
+## 🎓 Certifications
+
+- **Cisco Networking Academy — Linux Unhatched** (July 2026)
+  [Verified Badge](https://www.credly.com/badges/42f41bbe-3a28-4740-aa8e-6d4ee7594221/public_url)
 
 ---
 
