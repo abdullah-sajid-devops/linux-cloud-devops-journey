@@ -36,17 +36,17 @@ on a live Ubuntu Server as part of my
 
 ## Key Learnings
 
-- **`diff` vs `cmp`** — diff shows line-by-line differences,
+- **`diff` vs `cmp`** -- diff shows line-by-line differences,
   cmp works byte by byte. Both have different DevOps use cases.
-- **`head`** — shows first 10 lines by default.
+- **`head`** -- shows first 10 lines by default.
   Extremely useful for checking log files quickly.
-- **`ln -s`** — creates a symbolic link, works like 
+- **`ln -s`** -- creates a symbolic link, works like 
   a shortcut in Windows.
-- **`less`** — faster than `more` for large files because 
+- **`less`** -- faster than `more` for large files because 
   it does not load entire file into memory.
-- **`locate`** — much faster than `find` because 
+- **`locate`** -- much faster than `find` because 
   it uses a pre-built database.
-- **`cksum`** — used to verify file integrity after 
+- **`cksum`** -- used to verify file integrity after 
   transfers, important in server environments.
 
 ---
