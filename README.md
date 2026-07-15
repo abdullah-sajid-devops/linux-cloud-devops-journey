@@ -48,7 +48,8 @@ Part of my **100 Days DevOps & Cloud Engineering Challenge.**
 | 17 | Cisco NDG Linux Unhatched | Completed with 90% — Cisco verified badge on Credly | [View Lab](https://github.com/abdullah-sajid-devops/linux-sysadmin-journey/blob/main/Day17-Cisco-Linux-Unhatched-Certificate.md) | ✅ |
 | 18 | Cisco Linux Essentials — Module 1 | Linux history, Kernel vs GNU, Open Source, Distro families | [View Lab](https://github.com/abdullah-sajid-devops/linux-sysadmin-journey/blob/main/Day18-Cisco-Linux-Essentials-Module1.md) | ✅ |
 | 19 | Cisco Linux Essentials — Module 2 | OS fundamentals, CLI vs GUI, Windows vs macOS vs Linux | [View Lab](https://github.com/abdullah-sajid-devops/linux-sysadmin-journey/blob/main/Day19-Cisco-Linux-Essentials-Module2.md) | ✅ |
-| 20 | Next Module | Upcoming | Pending | ⏳ |
+| 20 | Cisco Linux Essentials — Chapter 2 Exam | Software release cycles, Linux vs UNIX, Embedded Systems — 100% score! | [View Lab](https://github.com/abdullah-sajid-devops/linux-sysadmin-journey/blob/main/Day20-Cisco-Linux-Essentials-Chapter2-Exam.md) | ✅ |
+| 21 | Next Module | Upcoming | Pending | ⏳ |
 
 ---
 
