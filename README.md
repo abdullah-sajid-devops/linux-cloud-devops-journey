@@ -50,7 +50,8 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 | 20 | Cisco Linux Essentials — Module 2 Complete | Software release cycles, Linux vs UNIX, Embedded Systems — 100% score! | [View Lab](Day20-Linux-Essentials-Module2-Complete.md) | ✅ |
 | 21 | Cisco Linux Essentials — Module 3 | Advanced Linux Essentials concepts, Module 3 content | [View Lab](Day21-Cisco-Linux-Essentials-Module3.md) | ✅ |
 | 22 | Static vs Dynamic Websites & Web Servers | Static vs Dynamic sites, Apache vs NGINX, load balancing, reverse proxy | [View Lab](Day22-Static-Dynamic-Apache-NGINX.md) | ✅ |
-| 23 | Next Module | Upcoming | — | 🏗️ |
+| 23 | Private Cloud Servers — ownCloud & Nextcloud | Private cloud deployment, ownCloud (2010), Nextcloud fork (2016), GNU AGPLv3 license | [View Lab](Day23-Private-Cloud-Servers.md) | ✅ |
+| 24 | Next Module | Upcoming | — | 🏗️ |
 
 ---
 
