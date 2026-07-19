@@ -52,6 +52,7 @@ Part of my 100 Days DevOps & Cloud Engineering Challenge.
 | 22 | Static vs Dynamic Websites & Web Servers | Static vs Dynamic sites, Apache vs NGINX, load balancing, reverse proxy | [View Lab](Day22-Static-Dynamic-Apache-NGINX.md) | ✅ |
 | 23 | Private Cloud Servers — ownCloud & Nextcloud | Private cloud deployment, ownCloud (2010), Nextcloud fork (2016), GNU AGPLv3 license | [View Lab](Day23-Private-Cloud-Servers.md) | ✅ |
 | 24 | DataBase Server | MySQL vs MariaDB, MariaDB is fork of MySQL, Data Retrieval & SQL Language | [View Lab](Day24-Database-Servers.md) | ✅ | 
+| 25 | Network Infrastructure | — | [View Lab](Day25-Network-infrastructure.md) | ✅ |  
 | 25 | Next Module | Upcoming | — | 🏗️ |
 
 
